@@ -1,0 +1,2 @@
+module CoreBox
+end
